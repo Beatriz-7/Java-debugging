@@ -45,4 +45,4 @@ o invocou.
 
 É a matriz onde encontramos a pilha de excecução da exceção. O rastreamento da pilha busca (rastreio) para a próxima linha onde a exceção pode surgir.
 
-* ler de baixo para cima 
+Ler de baixo para cima 
