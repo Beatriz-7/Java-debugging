@@ -4,6 +4,7 @@ Exercícios Dio/GFT Debugging-Java
 # Debugging Java
 
 Bugs = erros de programação
+
 Debugging/depuração = processo de encontrar e corrigir bugs
  - é uma tarefa difícil e trabalhosa, variando de acordo com o ambiente de desenvolvimento e suas ferramentas disponível, como também a linguagem de programação 
  utilizada
